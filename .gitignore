@@ -1,0 +1,10 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore Parcel directories
+.cache/
+development
+
+
+# Ignore IDE specific files
+.vscode/
